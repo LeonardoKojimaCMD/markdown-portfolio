@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Name
 Leonardo Kojima
 ## Using markup language
