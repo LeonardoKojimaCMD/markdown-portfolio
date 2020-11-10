@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a baseball on the grass](https://s7d2.scene7.com/is/image/TWCNews/mlb_baseball_jpeg)
